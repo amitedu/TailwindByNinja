@@ -1,0 +1,23 @@
+{
+  "name": "TailwindByNinja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitedu/TailwindByNinja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitedu/TailwindByNinja/issues"
+  },
+  "homepage": "https://github.com/amitedu/TailwindByNinja#readme",
+  "dependencies": {
+    "tailwindcss": "^1.9.6"
+  }
+}
